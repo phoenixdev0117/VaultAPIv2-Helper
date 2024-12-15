@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Package lock and temp files
+.env
+.package.json
+package-lock.json
+yarn.lock
+.env
