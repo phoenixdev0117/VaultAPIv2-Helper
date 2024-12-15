@@ -22,6 +22,7 @@ app.get('/', ()=>{
 
 app.use("/", authRoute);
 app.use("/currency", currencyRoute);
+app.use("/card", cardRoute);
 
 // Socket.IO connection event
 io.on('connection', (socket) => {
