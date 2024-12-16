@@ -1,4 +1,4 @@
-# VaultAPIv2-helper
+# solar-card-api-helper
 
 ## list of API helpers
 
